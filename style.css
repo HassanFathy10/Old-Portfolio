@@ -139,26 +139,26 @@ li{
 /*background*/
 
 .cover{
-    background: url(https://i.ibb.co/zQ2bDDf/wallpaperflare-com-wallpaper-8.jpg);
+    background: url(images/3.jpg);
     background-size: cover;
     animation: run 20s linear infinite;
 }
 
 #services{
-    background: url(https://i.ibb.co/QDCP1nw/wallpaperflare-com-wallpaper-17.jpg) left;;
+    background: url(images/2.jpg) left;
     background-size: cover;
     top: -1px;
 }
 
 
 #projects{
-    background: url(https://i.ibb.co/DM0CgKs/wallpaperflare-com-wallpaper-16.jpg) left;
+    background: url(images/1.jpg) left;
     background-size: cover;
     top: -1px;
 }
 
 #contact{
-    background: url(https://i.ibb.co/QDCP1nw/wallpaperflare-com-wallpaper-17.jpg) ;
+    background: url(images/2.jpg) ;
     background-size: cover;
     top: -1px;
 }
@@ -254,6 +254,7 @@ h3{
 .social-icons a{
     font-size: 1.8em;
     padding: 10px 20px;
+    color: #ffffffc4;
 }
 
 .social-icons {
