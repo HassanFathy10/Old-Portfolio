@@ -24,6 +24,8 @@ window.addEventListener("scroll", evt => {
     
 });
 
+document.addEventListener('touchstart', onTouchStart, {passive: true});
+
 // Build menu 
 const hamburger = document.querySelector(".hamburger");
 const navMenu = document.getElementById("navbar_list");
