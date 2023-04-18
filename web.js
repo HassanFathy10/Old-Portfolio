@@ -41,13 +41,13 @@ document.querySelectorAll(".menu_link").forEach(link =>
 
 
 // jquery 
-$(document).ready(() => {
-    $('#About').ripples({
-        resolution:1512,
-        dropRadius: 20,
-        perturbance: 0.05,
-    });
-});
+// $(document).ready(() => {
+//     $('#About').ripples({
+//         resolution:1512,
+//         dropRadius: 20,
+//         perturbance: 0.05,
+//     });
+// });
 
 
 
